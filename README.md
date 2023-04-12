@@ -1,4 +1,8 @@
-### Hi there 👋
+| [![Diram Bora](https://img.shields.io/badge/OsamahAwadh-OS-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=oaokm&color=green) | ![Followers](https://img.shields.io/github/followers/oaokm) | ![Stars](https://img.shields.io/github/stars/oaokm?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+### Hi there, I'm Osamah Awadh 👋
+
+
 
 <!--
 **oaokm/oaokm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
