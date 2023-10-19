@@ -1,6 +1,6 @@
 | [![Diram Bora](https://img.shields.io/badge/OsamahAwadh-OS-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=oaokm&color=green) | ![Followers](https://img.shields.io/github/followers/oaokm) | ![Stars](https://img.shields.io/github/stars/oaokm?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
-### Hi there, I'm Osamah Awadh 👋
+### Hi there, I'm Osamah 👋
 
 
 <p align="center">
