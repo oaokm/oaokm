@@ -2,10 +2,6 @@
 --| --| --| --|
 ### Hi there, I'm Osamah 👋
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="oaokm" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Support me with a cup of cof" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-<p align="center">
-  <img align="center" src = "https://github-readme-stats.vercel.app/api?username=oaokm&show_icons=true&theme=transparent">
-</p>
 <!--
 **oaokm/oaokm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
