@@ -2,6 +2,9 @@
 --| --| --| --|
 ### Hi there, I'm Osamah 👋
 
+<a href="https://www.buymeacoffee.com/oaokm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 <!--
 **oaokm/oaokm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
